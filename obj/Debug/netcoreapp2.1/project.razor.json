@@ -1,0 +1,55 @@
+{
+  "FilePath": "c:\\Mf\\src\\_Course\\Getting started with DevOps using Azure DevOps & Docker\\AspNetCoreOnDocker\\AspNetCoreOnDocker.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "AspNetCoreOnDocker",
+  "Documents": [
+    {
+      "FilePath": "c:\\Mf\\src\\_Course\\Getting started with DevOps using Azure DevOps & Docker\\AspNetCoreOnDocker\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Mf\\src\\_Course\\Getting started with DevOps using Azure DevOps & Docker\\AspNetCoreOnDocker\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Mf\\src\\_Course\\Getting started with DevOps using Azure DevOps & Docker\\AspNetCoreOnDocker\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Mf\\src\\_Course\\Getting started with DevOps using Azure DevOps & Docker\\AspNetCoreOnDocker\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Mf\\src\\_Course\\Getting started with DevOps using Azure DevOps & Docker\\AspNetCoreOnDocker\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Mf\\src\\_Course\\Getting started with DevOps using Azure DevOps & Docker\\AspNetCoreOnDocker\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Mf\\src\\_Course\\Getting started with DevOps using Azure DevOps & Docker\\AspNetCoreOnDocker\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
